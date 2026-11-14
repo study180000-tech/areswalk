@@ -1,8 +1,0 @@
-{
-  "name": "AresWalk — Mars EVA & Rover Telemetry",
-  "description": "Layered 3D Mars exploration console integrating NASA mission datasets across five Martian landing zones with live ESP32 rover sensor anomaly detection.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
